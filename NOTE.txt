@@ -1,0 +1,3 @@
+Conveyor_Vision_Galiukir => Sort fruit automatic
+
+Computer_Vision_Manual_Sorting => Sort fruit manual with keyboard press 1 if mangosteen category detected and then press enter
